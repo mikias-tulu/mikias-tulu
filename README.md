@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)]()
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/mikias-tulu/mikias-tulu)
 
 <h1 align="center">Hi 👋, I'm Mikias Tulu</h1>
 <h3 align="center">A passionate FullStack developer</h3>
