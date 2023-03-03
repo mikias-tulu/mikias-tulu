@@ -1,16 +1,16 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/mikias-tulu/mikias-tulu)
 
 <h1 align="center">Hi 👋, I'm Mikias Tulu</h1>
-<h3 align="center">A passionate FullStack developer</h3>
+<h3 align="center">Passionate Programmer</h3>
 <img align="right" alt="mylife" width ="400" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/5c394506444d16d39a64d87b07dcbf21.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikias-tulu&label=Profile%20views&color=0e75b6&style=flat" alt="mikias-tulu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mikitulu07" target="blank"><img src="https://img.shields.io/twitter/follow/mikitulu07?logo=twitter&style=for-the-badge" alt="mikitulu07" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **react, flutter**
+- 💬 Ask me about **PHP, Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
