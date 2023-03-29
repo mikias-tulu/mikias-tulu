@@ -1,5 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Mikias Tulu</h1>
 <h3 align="center">Programming Enthusiast</h3>
+<img align="right" alt="mylife" width ="400" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/5c394506444d16d39a64d87b07dcbf21.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikias-tulu&label=Profile%20views&color=0e75b6&style=flat" alt="mikias-tulu" /> </p>
 
