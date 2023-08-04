@@ -1,14 +1,19 @@
 
 <h1 align="center">Hi 👋, I'm Mikias Tulu</h1>
-<h3 align="center">Programming Enthusiast</h3>
+<h3 align="center">Programming Enthusia</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mikias-tulu&label=Profile%20views&color=0e75b6&style=flat" alt="mikias-tulu" /> 
+</p>
+<p align="center"><a target="_blank" href="https://mikias-tulu.netlify.app/"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio%20site-A4373A?&style=for-the-badge&logo=exercism&logoColor=white" height=25></a>
+<a target="_blank" href="https://mikias-tulu.netlify.app/resume/resume.pdf"><img src="https://img.shields.io/badge/Download%20My%20Resume-78b3df?style=for-the-badge" height=25></a>
+</p>
 <img align="right" alt="mylife" width ="400" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/5c394506444d16d39a64d87b07dcbf21.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikias-tulu&label=Profile%20views&color=0e75b6&style=flat" alt="mikias-tulu" /> </p>
+
 
 
 # 💫 About Me:
-🔭 I’m currently working on **mobile development**<br>🌱 I’m currently learning **Laravel**<br>💬 Ask me about **Flutter**<br> 📫 How to reach me **miki.tulu@gmail.com**
+🔭 I’m currently working on **Mobile Development**<br>🌱 I’m currently learning **Laravel**<br>💬 Ask me about **Flutter**<br> 📫 How to reach me **miki.tulu@gmail.com**
 
 
 ## 🌐 Socials:
